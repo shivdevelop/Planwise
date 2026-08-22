@@ -43,20 +43,20 @@ The project will progressively evolve from deterministic Terraform plan analysis
 The project is currently in the foundation stage.
 
 ## Roadmap
-- [] Terraform plan JSON parser
-- [] Resource change detection
-- [] Create / update / destroy analysis
-- [] Resource replacement detection
-- [] Risk classification
-- [] Dependency analysis
-- [] Security checks
-- [] Blast-radius analysis
-- [] Human-readable reports
-- [] JSON output for CI/CD
-- [] GitHub Actions integration
-- [] Configurable policies
-- [] AI-assisted analysis
-- [] Automated remediation recommendations
+- [ ] Terraform plan JSON parser
+- [ ] Resource change detection
+- [ ] Create / update / destroy analysis
+- [ ] Resource replacement detection
+- [ ] Risk classification
+- [ ] Dependency analysis
+- [ ] Security checks
+- [ ] Blast-radius analysis
+- [ ] Human-readable reports
+- [ ] JSON output for CI/CD
+- [ ] GitHub Actions integration
+- [ ] Configurable policies
+- [ ] AI-assisted analysis
+- [ ] Automated remediation recommendations
 
 ## How It Will Work
 
